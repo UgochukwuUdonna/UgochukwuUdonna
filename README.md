@@ -13,7 +13,9 @@ Some of the things I have been working on:
 
 🛰 Previous research in Change Detection of the Amazon Basin and Animal Biodiversity.
 
-📫 Ask me about JavaScripting, Wika, R, and Python for remote sensing and geospatial analysis!
+💬 Ask me about JavaScripting, Wika, R, and Python for remote sensing and geospatial analysis!
+
+📫 Drop a message or send me an email at uokonkw@siue.edu
 
 <!---
 UgochukwuUdonna/UgochukwuUdonna is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
