@@ -1,6 +1,6 @@
 Hi there!✨
 
-Welcome to my GitHub page. 
+Welcome to my GitHub page.🫱🏾‍🫲🏾
 
 My name is Ugochukwu (Ugo), and I'm a Geography and GIS Master's Candidate at Southern Illinois University, Edwardsville, where I study remote sensing, data analytics, and GIS. My research and academic work range from change detection, image classification, ecology/ecosystem modeling, land change science, and beyond.
 
